@@ -2,6 +2,5 @@ node_modules/
 .parcel-cache/
 *.env
 dev-data
-public
 .prettierrc
 .eslintrc.json
