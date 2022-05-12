@@ -1,4 +1,3 @@
-const { async } = require('regenerator-runtime');
 const Tour = require('../models/tourModel');
 const User = require('../models/userModel');
 const Booking = require('../models/bookingModel');
